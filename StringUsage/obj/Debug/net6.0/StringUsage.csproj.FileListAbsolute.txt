@@ -1,0 +1,15 @@
+D:\ASP .Net\0. Projects\Test\BestPracticeSolution\StringUsage\bin\Debug\net6.0\StringUsage.exe
+D:\ASP .Net\0. Projects\Test\BestPracticeSolution\StringUsage\bin\Debug\net6.0\StringUsage.deps.json
+D:\ASP .Net\0. Projects\Test\BestPracticeSolution\StringUsage\bin\Debug\net6.0\StringUsage.runtimeconfig.json
+D:\ASP .Net\0. Projects\Test\BestPracticeSolution\StringUsage\bin\Debug\net6.0\StringUsage.dll
+D:\ASP .Net\0. Projects\Test\BestPracticeSolution\StringUsage\bin\Debug\net6.0\StringUsage.pdb
+D:\ASP .Net\0. Projects\Test\BestPracticeSolution\StringUsage\obj\Debug\net6.0\StringUsage.csproj.AssemblyReference.cache
+D:\ASP .Net\0. Projects\Test\BestPracticeSolution\StringUsage\obj\Debug\net6.0\StringUsage.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP .Net\0. Projects\Test\BestPracticeSolution\StringUsage\obj\Debug\net6.0\StringUsage.AssemblyInfoInputs.cache
+D:\ASP .Net\0. Projects\Test\BestPracticeSolution\StringUsage\obj\Debug\net6.0\StringUsage.AssemblyInfo.cs
+D:\ASP .Net\0. Projects\Test\BestPracticeSolution\StringUsage\obj\Debug\net6.0\StringUsage.csproj.CoreCompileInputs.cache
+D:\ASP .Net\0. Projects\Test\BestPracticeSolution\StringUsage\obj\Debug\net6.0\StringUsage.dll
+D:\ASP .Net\0. Projects\Test\BestPracticeSolution\StringUsage\obj\Debug\net6.0\refint\StringUsage.dll
+D:\ASP .Net\0. Projects\Test\BestPracticeSolution\StringUsage\obj\Debug\net6.0\StringUsage.pdb
+D:\ASP .Net\0. Projects\Test\BestPracticeSolution\StringUsage\obj\Debug\net6.0\StringUsage.genruntimeconfig.cache
+D:\ASP .Net\0. Projects\Test\BestPracticeSolution\StringUsage\obj\Debug\net6.0\ref\StringUsage.dll
