@@ -5,7 +5,9 @@ VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringUsage", "StringUsage\StringUsage.csproj", "{E1D2F749-E234-435C-8537-1E20EA561D99}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsynchronousProgrammingUsage", "AsynchronousProgrammingUsage\AsynchronousProgrammingUsage.csproj", "{BA06D041-7630-480A-BB6C-4F6C6492D3FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsynchronousProgrammingUsage", "AsynchronousProgrammingUsage\AsynchronousProgrammingUsage.csproj", "{BA06D041-7630-480A-BB6C-4F6C6492D3FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TupleUsage", "TupleUsage\TupleUsage.csproj", "{AF6772AE-751E-421B-B005-E8A4648522F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{BA06D041-7630-480A-BB6C-4F6C6492D3FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA06D041-7630-480A-BB6C-4F6C6492D3FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA06D041-7630-480A-BB6C-4F6C6492D3FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF6772AE-751E-421B-B005-E8A4648522F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF6772AE-751E-421B-B005-E8A4648522F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF6772AE-751E-421B-B005-E8A4648522F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF6772AE-751E-421B-B005-E8A4648522F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
