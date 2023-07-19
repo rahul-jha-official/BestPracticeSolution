@@ -1,0 +1,15 @@
+D:\ASP .Net\0. Projects\Test\BestPracticeSolution\AsynchronousProgrammingUsage\bin\Debug\net6.0\AsynchronousProgrammingUsage.exe
+D:\ASP .Net\0. Projects\Test\BestPracticeSolution\AsynchronousProgrammingUsage\bin\Debug\net6.0\AsynchronousProgrammingUsage.deps.json
+D:\ASP .Net\0. Projects\Test\BestPracticeSolution\AsynchronousProgrammingUsage\bin\Debug\net6.0\AsynchronousProgrammingUsage.runtimeconfig.json
+D:\ASP .Net\0. Projects\Test\BestPracticeSolution\AsynchronousProgrammingUsage\bin\Debug\net6.0\AsynchronousProgrammingUsage.dll
+D:\ASP .Net\0. Projects\Test\BestPracticeSolution\AsynchronousProgrammingUsage\bin\Debug\net6.0\AsynchronousProgrammingUsage.pdb
+D:\ASP .Net\0. Projects\Test\BestPracticeSolution\AsynchronousProgrammingUsage\obj\Debug\net6.0\AsynchronousProgrammingUsage.csproj.AssemblyReference.cache
+D:\ASP .Net\0. Projects\Test\BestPracticeSolution\AsynchronousProgrammingUsage\obj\Debug\net6.0\AsynchronousProgrammingUsage.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP .Net\0. Projects\Test\BestPracticeSolution\AsynchronousProgrammingUsage\obj\Debug\net6.0\AsynchronousProgrammingUsage.AssemblyInfoInputs.cache
+D:\ASP .Net\0. Projects\Test\BestPracticeSolution\AsynchronousProgrammingUsage\obj\Debug\net6.0\AsynchronousProgrammingUsage.AssemblyInfo.cs
+D:\ASP .Net\0. Projects\Test\BestPracticeSolution\AsynchronousProgrammingUsage\obj\Debug\net6.0\AsynchronousProgrammingUsage.csproj.CoreCompileInputs.cache
+D:\ASP .Net\0. Projects\Test\BestPracticeSolution\AsynchronousProgrammingUsage\obj\Debug\net6.0\AsynchronousProgrammingUsage.dll
+D:\ASP .Net\0. Projects\Test\BestPracticeSolution\AsynchronousProgrammingUsage\obj\Debug\net6.0\refint\AsynchronousProgrammingUsage.dll
+D:\ASP .Net\0. Projects\Test\BestPracticeSolution\AsynchronousProgrammingUsage\obj\Debug\net6.0\AsynchronousProgrammingUsage.pdb
+D:\ASP .Net\0. Projects\Test\BestPracticeSolution\AsynchronousProgrammingUsage\obj\Debug\net6.0\AsynchronousProgrammingUsage.genruntimeconfig.cache
+D:\ASP .Net\0. Projects\Test\BestPracticeSolution\AsynchronousProgrammingUsage\obj\Debug\net6.0\ref\AsynchronousProgrammingUsage.dll
